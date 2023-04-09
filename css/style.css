@@ -36,8 +36,116 @@ margin: 0 0 20px;
 
 .myparagraf{
     font-family: Poppins;
-    font-size: 14px;
+    font-size: 16px;
     margin: 0 0 25px;
     font-weight: 600;
     line-height: 1.5;
+    font-weight: 800;
+}
+
+.myinput{
+    width: auto;
+max-width: 100%;
+padding: 0 0 0 20px;
+background-color: #f9f9f9;
+border: none;
+border-radius: 5px 0 0 5px;
+outline: none;
+height: 40px;
+box-shadow: none;
+box-sizing: content-box;
+transition: all .3s;
+
+}
+
+.myinput2{
+ border-radius: 0 5px 5px 0;
+margin: 0;
+padding: 0 25px;
+border-color: #fff;
+background-color: #33c;
+color: #fff;
+box-shadow: 0 0 1px transparent;
+outline: none;
+font-size: .9em;
+height: 40px;
+border: 2px solid;
+width: auto;
+position: absolute;
+display: inline-block;
+}
+
+.mysubtitel{
+    font-size: 34px;
+font-weight: 600;
+line-height: 1.2;
+letter-spacing: -1px;
+color: #454545;
+margin: 0 0 30px;
+font-family: Poppins;
+
+}
+
+.mypara{
+    font-family: 'Poppins';
+    font-size: 16px;
+    line-height: 1.5;
+    color: #a1a1a1;
+    letter-spacing: 0;
+    margin: 10px 0 15px;
+    font-weight: 500;
+}
+
+.mydiv{
+margin: 0 0 10px;
+background: #33c;
+width: 60px;
+height: 60px;
+display: inline-block;
+border-radius: 50%;
+margin-left: 170px;
+}
+
+.myicon1{
+font-size: 34px;
+color: #fff;
+position: absolute;
+margin: 15px;
+box-sizing: border-box;
+
+}
+
+.myheader{
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 1.2;
+    letter-spacing: 0;
+    color: #454545;
+    margin: 0 0 10px;
+    word-spacing: 0px;
+    box-sizing: border-box;
+}
+.myphrase{
+    font-family: 'Poppins';
+    font-size: 14px;
+    line-height: 1.5;
+    color: #a1a1a1;
+    letter-spacing: 0;
+    margin: 10px 0 15px;
+}
+
+.myicon2{
+    font-size: 34px;
+    color: #fff;
+    position: absolute;
+    margin: 15px;
+    box-sizing: border-box;
+}
+
+.myicon3{
+    font-size: 34px;
+    color: #fff;
+    position: absolute;
+    margin: 15px;
+    box-sizing: border-box;  
 }
