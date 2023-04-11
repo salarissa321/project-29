@@ -149,3 +149,58 @@ box-sizing: border-box;
     margin: 15px;
     box-sizing: border-box;  
 }
+
+.myschlagzeile{
+    font-size: 42px;
+    font-weight: 600;
+    letter-spacing: -1px;
+    margin: 0 0 20px;
+    font-family: Poppins;
+    word-spacing: 0px;
+}
+
+.mysentence{
+    margin: 10px 0 15px;
+    font-size: 18px;
+line-height: 1.4;
+color: #a1a1a1;
+letter-spacing: 0;
+font-family: Roboto;
+}
+
+.mylist{
+    font-family: Roboto;
+    font-size: px18;
+    letter-spacing: 0;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    color: #a1a1a1;
+  
+}
+
+.mydiv{
+margin-right: 200px;
+
+}
+
+.myimage{
+ width: 80px;
+height: 80px;
+border-radius: 50%;
+margin-left: 50px;
+
+
+}
+
+.paragraf{
+font-family: Poppins;
+font-size: 14px;
+font-weight: 300;
+padding: 20px 10px;
+letter-spacing: 1px;
+line-height: 1.5;
+color: #a1a1a1;
+margin: 10px 0 15px;
+
+}
+
